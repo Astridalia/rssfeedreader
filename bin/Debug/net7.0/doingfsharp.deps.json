@@ -1,0 +1,250 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "doingfsharp/1.0.0": {
+        "dependencies": {
+          "CodeHollow.FeedReader": "1.2.6",
+          "FSharp.Core": "7.0.400",
+          "Giraffe": "6.2.0",
+          "Giraffe.Htmx": "1.9.6",
+          "Giraffe.ViewEngine": "1.4.0",
+          "Giraffe.ViewEngine.Htmx": "1.9.6"
+        },
+        "runtime": {
+          "doingfsharp.dll": {}
+        }
+      },
+      "CodeHollow.FeedReader/1.2.6": {
+        "runtime": {
+          "lib/netcoreapp2.1/CodeHollow.FeedReader.dll": {
+            "assemblyVersion": "1.2.6.0",
+            "fileVersion": "1.2.6.0"
+          }
+        }
+      },
+      "FSharp.Core/7.0.400": {
+        "runtime": {
+          "lib/netstandard2.1/FSharp.Core.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.4.23.37403"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.1/cs/FSharp.Core.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.1/de/FSharp.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.1/es/FSharp.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.1/fr/FSharp.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.1/it/FSharp.Core.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.1/ja/FSharp.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.1/ko/FSharp.Core.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.1/pl/FSharp.Core.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.1/ru/FSharp.Core.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.1/tr/FSharp.Core.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Giraffe/6.2.0": {
+        "dependencies": {
+          "FSharp.Core": "7.0.400",
+          "Giraffe.ViewEngine": "1.4.0",
+          "Microsoft.IO.RecyclableMemoryStream": "2.2.1",
+          "Newtonsoft.Json": "13.0.3",
+          "System.Text.Json": "7.0.3"
+        },
+        "runtime": {
+          "lib/net7.0/Giraffe.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Giraffe.Htmx/1.9.6": {
+        "dependencies": {
+          "FSharp.Core": "7.0.400",
+          "Giraffe": "6.2.0",
+          "Giraffe.Htmx.Common": "1.9.6"
+        },
+        "runtime": {
+          "lib/net7.0/Giraffe.Htmx.dll": {
+            "assemblyVersion": "1.9.6.0",
+            "fileVersion": "1.9.6.0"
+          }
+        }
+      },
+      "Giraffe.Htmx.Common/1.9.6": {
+        "dependencies": {
+          "FSharp.Core": "7.0.400"
+        },
+        "runtime": {
+          "lib/net7.0/Giraffe.Htmx.Common.dll": {
+            "assemblyVersion": "1.9.6.0",
+            "fileVersion": "1.9.6.0"
+          }
+        }
+      },
+      "Giraffe.ViewEngine/1.4.0": {
+        "dependencies": {
+          "FSharp.Core": "7.0.400"
+        },
+        "runtime": {
+          "lib/net5.0/Giraffe.ViewEngine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Giraffe.ViewEngine.Htmx/1.9.6": {
+        "dependencies": {
+          "FSharp.Core": "7.0.400",
+          "Giraffe.Htmx.Common": "1.9.6",
+          "Giraffe.ViewEngine": "1.4.0"
+        },
+        "runtime": {
+          "lib/net7.0/Giraffe.ViewEngine.Htmx.dll": {
+            "assemblyVersion": "1.9.6.0",
+            "fileVersion": "1.9.6.0"
+          }
+        }
+      },
+      "Microsoft.IO.RecyclableMemoryStream/2.2.1": {
+        "runtime": {
+          "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/7.0.0": {},
+      "System.Text.Json/7.0.3": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "7.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "doingfsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeHollow.FeedReader/1.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KpnP1zlX5zk58PUrREYUXC/7gk8ljjS8mkPfmFeuofaJlHJm62990cZdWLiMBuwWhV/HA6NAu9Ck5uM7GOJl0A==",
+      "path": "codehollow.feedreader/1.2.6",
+      "hashPath": "codehollow.feedreader.1.2.6.nupkg.sha512"
+    },
+    "FSharp.Core/7.0.400": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SZR1jcjcrdhjRObN/U16nI+RyvKBgg0zq8Pt2KAorDkvW0cXSjX4qKDNX+LpZaKZRA5QR9StHZ2mhT5VI/QSxw==",
+      "path": "fsharp.core/7.0.400",
+      "hashPath": "fsharp.core.7.0.400.nupkg.sha512"
+    },
+    "Giraffe/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+lq072cO04MvCRclGnoGvNbsIOEdVVLwEeu8ddky9XV4vk0X0FeljUTDjVux0G6pmlzEz31d2qv9s6uapVFvsQ==",
+      "path": "giraffe/6.2.0",
+      "hashPath": "giraffe.6.2.0.nupkg.sha512"
+    },
+    "Giraffe.Htmx/1.9.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TxLn1pwfHAdTrp30uT8N4uEq0gxPmR3KwZMj1UODfuSFYlTFDF69aNHOlBiZrr4H15N4go8KDtKEnenCxvnl5g==",
+      "path": "giraffe.htmx/1.9.6",
+      "hashPath": "giraffe.htmx.1.9.6.nupkg.sha512"
+    },
+    "Giraffe.Htmx.Common/1.9.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sQECXUJlezMiy9OtyM6lHDCCGAJLvvWIR9gOxBOG156NP8sdq3gTnNp/YViKwTgPYsS8E5ce0KjEb8bzDdt62A==",
+      "path": "giraffe.htmx.common/1.9.6",
+      "hashPath": "giraffe.htmx.common.1.9.6.nupkg.sha512"
+    },
+    "Giraffe.ViewEngine/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gWzlp8KGDLaPHMm/xGzfLT1e9wZaJhBKhEuMsPRBSn7wAMkSgMcaqJlWl8mFGCcOOx0r9UyDJvCJJQyljYmo+g==",
+      "path": "giraffe.viewengine/1.4.0",
+      "hashPath": "giraffe.viewengine.1.4.0.nupkg.sha512"
+    },
+    "Giraffe.ViewEngine.Htmx/1.9.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qjDLScag0UNZXj73Jd2fhC331e27CQ4TR0juAnFRHozAbJs1qNBEjvEHB97/oJ53RyrKmOyqnrS5DAUZYywc6A==",
+      "path": "giraffe.viewengine.htmx/1.9.6",
+      "hashPath": "giraffe.viewengine.htmx.1.9.6.nupkg.sha512"
+    },
+    "Microsoft.IO.RecyclableMemoryStream/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T5ahjOqWFMTSb9wFHKFNAcGXm35BxbUbwARtAPLSSPPFehcLz5mwDsKO1RR9R2aZ2Lk1BNQC7Ja63onOBE6rpA==",
+      "path": "microsoft.io.recyclablememorystream/2.2.1",
+      "hashPath": "microsoft.io.recyclablememorystream.2.2.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/7.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AyjhwXN1zTFeIibHimfJn6eAsZ7rTBib79JQpzg8WAuR/HKDu9JGNHTuu3nbbXQ/bgI+U4z6HtZmCHNXB1QXrQ==",
+      "path": "system.text.json/7.0.3",
+      "hashPath": "system.text.json.7.0.3.nupkg.sha512"
+    }
+  }
+}

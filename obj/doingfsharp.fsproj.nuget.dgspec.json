@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\admin\\Desktop\\doingfsharp\\src\\doingfsharp\\doingfsharp.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\admin\\Desktop\\doingfsharp\\src\\doingfsharp\\doingfsharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\doingfsharp\\src\\doingfsharp\\doingfsharp.fsproj",
+        "projectName": "doingfsharp",
+        "projectPath": "C:\\Users\\admin\\Desktop\\doingfsharp\\src\\doingfsharp\\doingfsharp.fsproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\doingfsharp\\src\\doingfsharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.401\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CodeHollow.FeedReader": {
+              "target": "Package",
+              "version": "[1.2.6, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.400, )",
+              "generatePathProperty": true
+            },
+            "Giraffe": {
+              "target": "Package",
+              "version": "[6.2.0, )",
+              "generatePathProperty": true
+            },
+            "Giraffe.Htmx": {
+              "target": "Package",
+              "version": "[1.9.6, )",
+              "generatePathProperty": true
+            },
+            "Giraffe.ViewEngine": {
+              "target": "Package",
+              "version": "[1.4.0, )",
+              "generatePathProperty": true
+            },
+            "Giraffe.ViewEngine.Htmx": {
+              "target": "Package",
+              "version": "[1.9.6, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

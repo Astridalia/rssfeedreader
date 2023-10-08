@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "7LKoCgtuz5e3D8yTvRQ80VmHf5/xiRQh+PXsl4wc0gY3/tdv3m6UQtdqCWoxViXs469OF0wK6zU2kNhZebkx5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\doingfsharp\\src\\doingfsharp\\doingfsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\codehollow.feedreader\\1.2.6\\codehollow.feedreader.1.2.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\giraffe\\6.2.0\\giraffe.6.2.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\giraffe.htmx\\1.9.6\\giraffe.htmx.1.9.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\giraffe.htmx.common\\1.9.6\\giraffe.htmx.common.1.9.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\giraffe.viewengine\\1.4.0\\giraffe.viewengine.1.4.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\giraffe.viewengine.htmx\\1.9.6\\giraffe.viewengine.htmx.1.9.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.2.1\\microsoft.io.recyclablememorystream.2.2.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
